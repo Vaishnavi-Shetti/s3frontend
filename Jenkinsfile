@@ -49,9 +49,9 @@ pipeline {
     //
     // Make sure the name is exactly: NodeJS-20
     // -------------------------------------------------------------------------
-    tools {
-        nodejs 'NodeJS-20'
-    }
+    // tools {
+    //     nodejs 'NodeJS-20'
+    // }
 
     // -------------------------------------------------------------------------
     // Environment configuration
